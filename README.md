@@ -1,4 +1,4 @@
-# راهنمای Bash برای تست نفوذ وب
+# راهنمای Bash Script برای تست نفوذ وب
 
 [لینک دانلود](https://raw.githubusercontent.com/Galaxy-sc/bash-for-web-penetration-testing/main/bash-for-web-penetration-testing.pdf)
 
